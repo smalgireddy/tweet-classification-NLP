@@ -1,2 +1,2 @@
 1)this project is about analyzing the food characteristics in the tweet i.e whether the tweet is describing food as healthy or junk. To classify these tweets I bui;t SVM(SVC) and Random Forest Classifiers. To preprocess the tweet text I used Pandas dataframes, Pyhton NLTK module and for feature engineering I used scikit-learn CounterVectorizer, TFIdfTransformer.
-2) I also built Word2Vec and GloVe word embedding models with combination of COnvolutional Neural Nets for classfication.
+2) I also built Word2Vec and GloVe word embedding models with combination of Convolutional Neural Nets for classfication.
